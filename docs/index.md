@@ -15,10 +15,10 @@ the ability to build up an interactive web application makes shiny a good commun
 
 ## What R Shiny can be used for?
 
-* Self-served Reporting Tool: if you are tired for answering the same questions from stakeholders from time to time, build a shiny app for them to find their own answers!
-* Normative Advanced Analysis: if you try to make sure that everyone within the company is doing advanced analysis (eg. campaign analysis, forecasting) in a normative and comparable way (eg. using certain parameters), wrap it in a shiny app!
-* Algorithm Development: Not sure what algos/parameters to use for your model? Test different ones in a visual way using shiny app!
-* Collect User Information: Shiny can not only be a data output but also a data input. Build a nice interface using shiny app to collect your user information for analyses!
+* __Self-served Reporting Tool__: if you are tired for answering the same questions from stakeholders from time to time, build a shiny app for them to find their own answers!
+* __Normative Advanced Analysis__: if you try to make sure that everyone within the company is doing advanced analysis (eg. campaign analysis, forecasting) in a normative and comparable way (eg. using certain parameters), wrap it in a shiny app!
+* __Algorithm Development__: Not sure what algos/parameters to use for your model? Test different ones in a visual way using shiny app!
+* __Collect User Information__: Shiny can not only be a data output but also a data input. Build a nice interface using shiny app to collect your user information for analyses!
 
 
 ## Setup
@@ -29,6 +29,6 @@ Please make sure you have the following installed:
 
 ## Lessons
 
-* [Lesson 1 - Structure of R Shiny](lession1.md)
+* [Lesson 1 - Structure of R Shiny](lesson1.md)
 
 
